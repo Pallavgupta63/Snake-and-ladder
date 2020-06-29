@@ -4,6 +4,8 @@
 #include<stdio.h>
 #include<time.h>
 
+//hello
+
 void draw_line(int n,char ch);
 void board();
 void gamescore(char name1[],char name2[],int p1, int p2);
